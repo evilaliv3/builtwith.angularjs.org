@@ -3688,7 +3688,24 @@
         "Responsive",
         "Cloud"
       ]
+    },
+    {
+      "name": "GlobaLeaks",
+      "thumb": "globaleaks/thumb.png",
+      "desc": "GlobaLeaks, the first open-source whistleblowing framework",
+      "url": "https://www.globaleaks.org",
+      "info": "https://www.globaleaks.org",
+      "src": "https://github.com/globaleaks/GlobaLeaks",
+      "submitter": "evilaliv3",
+      "submissionDate": "2015-06-04",
+      "tags": [
+        "Whistleblowing", "Framework", "Free Software", "Leaking",
+        "AngularJs", "Bootstrap", "Twisted", "Python",
+        "Security", "Privacy", "Anonymity", "Crypto",
+        "Unittests", "Internationalization", "Localization", "Transifex",
+        "Continous Integration", "Travis", "Saucelabas", "Landscape",
+        "HTML5", "JSON", "OpenData", "Protractor", "REST"
+      ]
     }
-
   ]
 }
